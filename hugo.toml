@@ -1,0 +1,12 @@
+baseURL = 'https://fd00.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+publishDir = "public"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
