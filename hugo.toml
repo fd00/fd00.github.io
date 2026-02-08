@@ -1,6 +1,6 @@
 baseURL = 'https://fd00.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'fd0.app'
 
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
